@@ -1,12 +1,13 @@
 ---
 layout: base
-title: This is our team!
+title: Dhruv Agrawal
 hide: true
 ---
 
 ### Team
 
-Hi!
+Hi! My name is Dhruv Agrawal
+My Team:
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|

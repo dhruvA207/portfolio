@@ -5,9 +5,11 @@ permalink: /about/
 comments: true
 ---
 
-## As a conversation Starter
+## About ME!
 
-Here are some places I have lived.
+
+
+
 
 <comment>
 Flags are made using Wikipedia images
@@ -60,7 +62,8 @@ Flags are made using Wikipedia images
     // 2. Define a JavaScript object for our http source and our data rows for the Living in the World grid
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
-        {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California"},
+        {"flag": "0/01/Flag_of_California.svg", "description": "California"},
+
     ];
 
     // 3a. Consider how to update style count for size of container
@@ -96,27 +99,31 @@ Flags are made using Wikipedia images
 
 ### Journey through Life
 
-Here is what I did at those places
 
-- 🏫 Born and raised in San Diego, CA
-- 🏫 Completed Elementary and middle school at Design39, 2014-25
-- 🇮🇳 Son of immigrants from India
-- 🎾 Got introduced to tennis at the age of 5 - avid tennis fan and player
-- 💼 1x CyberPatriot National Finalist (My team placed 2nd out of 700+ teams) in 2025
-- 🎓 Placed Top 5% nationally in AMC 8 2024
-- 🏏 Big cricket fan (supports RCB)
 
-### Culture, Family, and Fun
+- ☀️ Born and raised mostly in San Diego, California
+- 🏫 Elementary and Middle School in Design 39 Campus
+- 🏊🏽‍♂️ I had an early interest in swimmming and am now a competitive swimmer in the club Pacific Swim
+- 🏊🏽‍♂️ I am currently a sprint butterfly swimmer and was top 20 in the nation last year in the 50m fly
+- 🎹 I have been doing piano for 7 years and am doing a certifcation called Certifcate of Merit
+- 💻 I did CyberAegis (cybersecurity) for a short time in 7th grade, but couldn't continue because of my swimming commitment
+- 🏫 I am now doing CSSE in Del Norte Highschool as a freshman!
 
-Everything for me, as for many others, revolves around family and faith.
 
-- My family is from Bihar, India. I actively follow visit India, speak Hindi, and practice Hinduism.
-- I have a large extended family. In addition to my parents and sister, I have 11 first cousins and 3 second cousins - all of whom I meet often.
-- The gallery of pics has some of me and my CyberPatriot team last year.
+### Culture, Family, and Friends
+
+- 🧑‍🧑‍🧒 Parents both born and raised in India - Both are software engineers
+- I have a brother who is 9 years younger than me
+- My family and I are Hindus, a common religion from the areas my parents come from
+- I love spending time with my friends, from just sitting with them to doing flips into the pool with them!
 
 <comment>
-Gallery of Pics, scroll to the right for more ...
+Pictures!
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/Headshot.JPG" alt="Image 1" title="Me">
-  <img src="{{site.baseurl}}/images/about/CyberAegis-Stardust.JPG" alt="Image 2" title="My CyberPatriot team">
+  <img src="{{site.baseurl}}/images/about/India_flag.png" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/Pacific_swim.png" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/Mihir.jpeg" alt="Image 3">
+  <img src="{{site.baseurl}}/images/about/Parents.png" alt="Image 4">
+  <img src="{{site.baseurl}}/images/about/Me & my friend.jpeg" alt="Image 5">
+</div>
