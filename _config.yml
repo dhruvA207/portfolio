@@ -1,9 +1,9 @@
 title: Open Coding 
-description: "Class of 2026"
-owner_name: Ishan Jha
-github_username: Jupiterian 
-github_repo: "student" 
-baseurl: "/student" 
+description: "My personal portfolio website"
+owner_name: Dhruv Agrawal
+github_username: dhruvA207 
+github_repo: "portfolio" 
+baseurl: "/portfolio" 
 future: true
 minima:
   skin: dark
