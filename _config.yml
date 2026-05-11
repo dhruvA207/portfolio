@@ -18,8 +18,8 @@ title: Open Coding
 description: "Dhruv Agrawal - CSSE Portfolio"
 owner_name: Dhruv Agrawal
 github_username: dhruvA207
-github_repo: "portfolio1"
-baseurl: "/portfolio1"
+github_repo: "portfolio"
+baseurl: "/portfolio"
 future: true
 
 # Build settings
