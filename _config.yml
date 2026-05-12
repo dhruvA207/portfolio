@@ -19,7 +19,7 @@ description: "Dhruv Agrawal - CSSE Portfolio"
 owner_name: Dhruv Agrawal
 github_username: dhruvA207
 github_repo: "portfolio"
-baseurl: "/portfolio"
+baseurl: ""
 future: true
 
 # Build settings
