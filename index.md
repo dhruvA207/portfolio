@@ -9,7 +9,7 @@ Hi! My name is Dhruv Agrawal — I'm a CS student who builds games and learns by
 
 ### Featured Project — Void Striker
 
-> A space shooter I built from scratch. Play it to unlock how each system was coded.
+> A space shooter game me and my team, Team Bob, built from scratch. Play it to unlock how each system was coded.
 
 <div style="background: linear-gradient(135deg, #0a001a 0%, #1a0040 100%); border: 1px solid #6600cc; border-radius: 10px; padding: 20px 24px; margin-bottom: 8px;">
     <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 16px;">
@@ -22,7 +22,7 @@ Hi! My name is Dhruv Agrawal — I'm a CS student who builds games and learns by
             </p>
         </div>
         <div style="display: flex; flex-direction: column; gap: 8px;">
-            <a href="{{site.baseurl}}/voidstriker" style="text-decoration: none; display: inline-block; background: #6600cc; color: white; padding: 10px 22px; border-radius: 6px; font-weight: 700; font-size: 1rem; text-align: center;">
+            <a href="https://pages.opencodingsociety.com/voidstriker" style="text-decoration: none; display: inline-block; background: #6600cc; color: white; padding: 10px 22px; border-radius: 6px; font-weight: 700; font-size: 1rem; text-align: center;">
                 ▶ Play &amp; Learn
             </a>
         </div>
@@ -36,9 +36,9 @@ Hi! My name is Dhruv Agrawal — I'm a CS student who builds games and learns by
 > Each lesson teaches a real concept through a game mechanic I built.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="{{site.baseurl}}/voidstriker" style="text-decoration: none;">
+    <a href="{{site.baseurl}}/voidstriker/cs111" style="text-decoration: none;">
         <div style="background: linear-gradient(135deg, #3300aa, #6600cc); color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; border: 1px solid #aa44ff;">
-           Void Striker — Shoot to Unlock
+           Void Striker — CS 111
         </div>
     </a>
     <a href="{{site.baseurl}}/game/essentials/variables" style="text-decoration: none;">
@@ -65,7 +65,7 @@ Hi! My name is Dhruv Agrawal — I'm a CS student who builds games and learns by
 > Games I've built — click to play in the browser.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="{{site.baseurl}}/voidstriker" class="btn" style="background: linear-gradient(135deg, #3300aa, #6600cc); border: 1px solid #aa44ff;">
+    <a href="{{site.baseurl}}/voidstriker/play" class="btn" style="background: linear-gradient(135deg, #3300aa, #6600cc); border: 1px solid #aa44ff;">
         Void Striker
     </a>
     <a href="{{site.baseurl}}/gamify" class="btn" style="background-color: var(--blue);">
