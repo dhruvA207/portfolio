@@ -215,7 +215,7 @@ const VoidStrikerGame = (() => {
   }
 
   function applyCheat() {
-    totalKills = Math.max(totalKills, 30);
+    totalKills = Math.max(totalKills, 40);
     updateHUD();
     window.dispatchEvent(new CustomEvent('vs-kills', { detail: { total: totalKills } }));
   }
